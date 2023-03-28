@@ -14,9 +14,9 @@ Follow prompts<br>
 
 ## Usage
 
-Answer prompts given in the command line
-A readme file will then be generated
-<iframe src="https://drive.google.com/file/d/1jWye9T7s9KNg6UQvX2bv-gRZPQG23sgi/preview" width="640" height="480"></iframe>
+Answer prompts given in the command line <br>
+A readme file will then be generated<br>
+[Video here example](https://drive.google.com/file/d/1jWye9T7s9KNg6UQvX2bv-gRZPQG23sgi/preview)
 
     
 ## Credits
