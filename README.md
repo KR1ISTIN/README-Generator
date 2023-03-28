@@ -16,9 +16,11 @@ Follow prompts<br>
 
 Answer prompts given in the command line <br>
 A readme file will then be generated<br>
-[Video here example](https://drive.google.com/file/d/1jWye9T7s9KNg6UQvX2bv-gRZPQG23sgi/preview)
+[Video here](https://drive.google.com/file/d/1jWye9T7s9KNg6UQvX2bv-gRZPQG23sgi/preview)
 
-    
+[Untitled_ Mar 28, 2023 5_06 PM.webm](https://user-images.githubusercontent.com/121457179/228381192-619f25bd-689b-4da5-b365-4296eab2d364.webm)
+
+
 ## Credits
 N/A
 
