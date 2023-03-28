@@ -7,8 +7,8 @@ It prompts the user a series of questions related to a high quality ReadMe file 
 
 ## Installation
 
-Install Node.Js
-Clone Repo
+Install Node.Js <br>
+Clone Repo <br>
 Run node index.js in the command line
 Follow prompts
 
