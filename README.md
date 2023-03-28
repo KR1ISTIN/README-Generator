@@ -13,11 +13,11 @@ Run node index.js in the command line <br>
 Follow prompts<br>
 
 ## Usage
-<a href='https://drive.google.com/file/d/1jWye9T7s9KNg6UQvX2bv-gRZPQG23sgi/view'>Link to video demo</a>
+
 Answer prompts given in the command line
 A readme file will then be generated
+<iframe src="https://drive.google.com/file/d/1jWye9T7s9KNg6UQvX2bv-gRZPQG23sgi/preview" width="640" height="480"></iframe>
 
-<img src=''>
     
 ## Credits
 N/A
