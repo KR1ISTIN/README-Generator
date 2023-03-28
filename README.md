@@ -9,8 +9,8 @@ It prompts the user a series of questions related to a high quality ReadMe file 
 
 Install Node.Js <br>
 Clone Repo <br>
-Run node index.js in the command line
-Follow prompts
+Run node index.js in the command line <br>
+Follow prompts<br>
 
 ## Usage
 Answer prompts given in the command line
