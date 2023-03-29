@@ -107,7 +107,7 @@ ${license}
 
 ${data.test}
 
-## Questions | Get in Touch
+## Questions 
 Email Address:
 <a href="mailto:${data.contact}">${data.contact}</a>
 
