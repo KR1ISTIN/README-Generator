@@ -12,8 +12,8 @@ It prompts the user a series of questions related to a high quality ReadMe file 
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Test](#test)
-- [Questions](#questions)
+
+
 
 ## Installation
 
