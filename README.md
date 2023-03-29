@@ -7,7 +7,6 @@ This README Generator project was created for ease of use using node.js to gener
 It prompts the user a series of questions related to a high quality ReadMe file using inquirer, then generates the file.
 
 ## Table of Contents 
-${data.contents}
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
