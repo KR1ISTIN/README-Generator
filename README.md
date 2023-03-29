@@ -22,6 +22,7 @@ Clone Repo <br>
 Navigate to folder and in intergraded terminal,type "npm i"<br>
 Run node index.js in the command line <br>
 Follow prompts<br>
+If the entire repo is clone, the current ReadMe will be replaced once prompts are answered<br>
 
 ## Usage
 
