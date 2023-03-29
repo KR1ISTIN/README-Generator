@@ -2,7 +2,7 @@
 
 ## Description
 
-This README Generator project was created for ease of use using node.js to generator a ReadMe file to add to any project.
+This README Generator project was created for ease of use using node.js to generate a ReadMe file to add to any project.
 It prompts the user a series of questions related to a high quality ReadMe file using inquirer, then generates the file.
 
 ## Installation
