@@ -10,6 +10,7 @@ It prompts the user a series of questions related to a high quality ReadMe file 
 
 Install Node.Js <br>
 Clone Repo <br>
+Navigate to folder and type "npm i"<br>
 Run node index.js in the command line <br>
 Follow prompts<br>
 
